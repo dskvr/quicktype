@@ -70,6 +70,7 @@ export interface CLIOptions {
     alphabetizeProperties: boolean;
     allPropertiesOptional: boolean;
     noRender: boolean;
+    noAcronymsTransform: boolean;
 
     rendererOptions: RendererOptions;
 
